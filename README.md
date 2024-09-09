@@ -2,7 +2,7 @@
 
 ## Projet collaboratif 
 
-# A faire : ajouter un fichier.gitignore
+# A faire : ajouter un fichier `.gitignore`
 
 
 
